@@ -1,0 +1,6 @@
+#ifndef FURROVINEMODELBONECOLLECTION_H
+#define FURROVINEMODELBONECOLLECTION_H
+
+#include <Furrovine++/Graphics/ModelBoneCollection.Decl.h>
+
+#endif // FURROVINEMODELBONECOLLECTION_H

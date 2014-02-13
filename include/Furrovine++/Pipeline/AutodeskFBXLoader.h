@@ -1,0 +1,6 @@
+#ifndef FURROVINEAUTODESKFBXLOADER_H
+#define FURROVINEAUTODESKFBXLOADER_H
+
+#include <Furrovine++/Pipeline/AutodeskFBXLoader.Decl.h>
+
+#endif // FURROVINEAUTODESKFBXLOADER_H 

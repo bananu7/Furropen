@@ -1,0 +1,48 @@
+#pragma once
+
+namespace Furrovine { namespace Unicode {
+
+	enum class line_break_t : unsigned char {
+		AI,
+		AL,
+		B2,
+		BA,
+		BB,
+		BK,
+		CB,
+		CJ,
+		CL,
+		CM,
+		CP,
+		CR,
+		EX,
+		GL,
+		H2,
+		H3,
+		HL,
+		HY,
+		ID,
+		IN,
+		IS,
+		JL,
+		JT,
+		JV,
+		LF,
+		NL,
+		NS,
+		NU,
+		OP,
+		PO,
+		PR,
+		QU,
+		SA,
+		SG,
+		SP,
+		SY,
+		WJ,
+		XX,
+		ZW,
+		RI,
+	};
+
+}}

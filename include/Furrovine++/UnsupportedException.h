@@ -1,0 +1,6 @@
+#ifndef FURROVINEUNSUPPORTEDEXCEPTION_H
+#define FURROVINEUNSUPPORTEDEXCEPTION_H
+
+#include <Furrovine++/UnsupportedException.Decl.h>
+
+#endif // FURROVINEUNSUPPORTEDEXCEPTION_H

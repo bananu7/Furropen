@@ -1,0 +1,22 @@
+#pragma once
+
+#include <Furrovine++/Graphics/VertexQuad.h>
+#include <Furrovine++/Graphics/VertexNymph.h>
+#include <Furrovine++/Graphics/VertexSkeletal.h>
+#include <Furrovine++/Graphics/VertexPosition.h>
+#include <Furrovine++/Graphics/VertexPosition4.h>
+#include <Furrovine++/Graphics/VertexPositionNormal.h>
+#include <Furrovine++/Graphics/VertexPositionNormalBinormal.h>
+#include <Furrovine++/Graphics/VertexPositionNormalBinormalTangent.h>
+#include <Furrovine++/Graphics/VertexPositionColor.h>
+#include <Furrovine++/Graphics/VertexPositionColorNormal.h>
+#include <Furrovine++/Graphics/VertexPositionColorNormalBinormal.h>
+#include <Furrovine++/Graphics/VertexPositionColorNormalBinormalTangent.h>
+#include <Furrovine++/Graphics/VertexPositionTexture.h>
+#include <Furrovine++/Graphics/VertexPositionTextureNormal.h>
+#include <Furrovine++/Graphics/VertexPositionTextureNormalBinormal.h>
+#include <Furrovine++/Graphics/VertexPositionTextureNormalBinormalTangent.h>
+#include <Furrovine++/Graphics/VertexPositionColorTexture.h>
+#include <Furrovine++/Graphics/VertexPositionColorTextureNormal.h>
+#include <Furrovine++/Graphics/VertexPositionColorTextureNormalBinormal.h>
+#include <Furrovine++/Graphics/VertexPositionColorTextureNormalBinormalTangent.h>

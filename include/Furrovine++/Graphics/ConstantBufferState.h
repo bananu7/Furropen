@@ -1,0 +1,6 @@
+#ifndef FURROVINECONSTANTBUFFERSTATE_H
+#define FURROVINECONSTANTBUFFERSTATE_H
+
+#include <Furrovine++/Graphics/ConstantBufferState.Decl.h>
+
+#endif // FURROVINECONSTANTBUFFERSTATE_H 

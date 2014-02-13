@@ -1,0 +1,6 @@
+#ifndef FURROVINEOPENTYPEFONTLOADER_H
+#define FURROVINEOPENTYPEFONTLOADER_H
+
+#include <Furrovine++/Pipeline/OpenTypeFontLoader.Decl.h>
+
+#endif // FURROVINEOPENTYPEFONTLOADER_H 
